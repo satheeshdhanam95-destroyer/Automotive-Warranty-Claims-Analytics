@@ -79,6 +79,9 @@ Missing Documents: 2.84%
 📈 Dashboard Insights
 1️⃣ Regional Performance Analysis
 
+<img width="963" height="783" alt="image" src="https://github.com/user-attachments/assets/c2dcc910-3393-461b-87e3-053ec77105ea" />
+
+
 South 1 Zone contributes ~70% of total approved amount
 
 South 2 is second but significantly behind
@@ -91,6 +94,8 @@ High geographic concentration risk identified
 
 2️⃣ Dealer Performance Analysis
 🏆 Top Performing Dealers (By Approved Amount)
+<img width="1124" height="853" alt="image" src="https://github.com/user-attachments/assets/699ccbf5-8e92-4257-99b2-9f0d19768f87" />
+
 
 AMMAN AUTO P LTD
 
@@ -115,6 +120,8 @@ LANDMARK AUTOMOBILES
 👉 Indicates possible training or documentation issues.
 
 3️⃣ Monthly Trend Analysis
+<img width="970" height="805" alt="image" src="https://github.com/user-attachments/assets/d6fd5769-6f1a-4c5a-b8bb-3f02d40c7f0e" />
+
 
 Peak Month: ₹2.90M
 
@@ -135,6 +142,8 @@ Operational slowdown
 This is a structural trend, not just seasonality.
 
 4️⃣ Status Distribution Analysis
+<img width="1117" height="843" alt="image" src="https://github.com/user-attachments/assets/d8fadf69-f84a-4af4-8b45-e105a2093a4d" />
+
 Status	Business Meaning
 79% Payment Made	Strong operational efficiency
 15.61% Verified	Pending finance cycle
